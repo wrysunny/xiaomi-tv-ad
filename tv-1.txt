@@ -1,0 +1,2 @@
+||test.ad.xiaomi.com^
+||api.ad.xiaomi.com^
